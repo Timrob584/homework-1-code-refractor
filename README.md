@@ -8,3 +8,5 @@ For this assignment, I wanted to clean up the existing code and increase the acc
 
 ## Screenshot
 ![Screenshot of Site](/assets\images\refractored-site.png)
+
+![Accessibility Report](/assets\images\lighthouse-accessibility-report.jpeg)
